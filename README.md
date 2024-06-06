@@ -9,9 +9,8 @@
    <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
 </p>
-## Languages
+## Frameworks, Libraries & Databases
 <p align="center">
    <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
