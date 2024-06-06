@@ -8,7 +8,7 @@
    <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/374016/python.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Frameworks
