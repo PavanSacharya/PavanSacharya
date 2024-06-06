@@ -24,4 +24,8 @@
    <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/452150/adobe-premiere.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/452141/adobe-after-effects.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/353488/blender.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+
