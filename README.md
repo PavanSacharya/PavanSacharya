@@ -20,4 +20,5 @@
 ## Tools & Tech
 <p align="left">
    <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img src=["https://www.svgrepo.com/show/452202/figma.svg" ](https://www.svgrepo.com/svg/452149/adobe-photoshop)height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
