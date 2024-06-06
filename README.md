@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, </h1>
+<h1 align="left">Hello 👋, </h1>
 <h3 align="center">A passionate UIUX and Graphics Design from India</h3>
 
 ## Languages
