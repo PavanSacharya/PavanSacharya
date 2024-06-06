@@ -19,7 +19,7 @@
 
 ## Tools & Tech
 <p align="center">
-   <img src=["https://www.svgrepo.com/svg/452149/adobe-photoshop.sv](https://www.svgrepo.com/svg/452059/mastercard)g" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/svg/452149/adobe-photoshop.svgheight="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/452202/figma.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
