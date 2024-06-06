@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, </h1>
-<h3 align="center">A passionate UIUX and Graphics Design from India</h3>
+<h5 align="left">I'm Pavan Acharya, a creative front-end designer with a passion for UI/UX and graphic design.</h5>
 
 ## Languages
 <p align="center">
