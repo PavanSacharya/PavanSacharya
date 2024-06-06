@@ -10,7 +10,9 @@
    <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 ## Frameworks, Libraries & Databases
 <p align="left">
+   
    <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
