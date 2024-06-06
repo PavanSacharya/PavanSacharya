@@ -17,7 +17,7 @@
    <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Tools & Tech
+## Tools
 <p align="left">
    <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg"height="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
