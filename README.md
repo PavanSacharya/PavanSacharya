@@ -15,7 +15,7 @@
 <p align="left">
    
    <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/355190/bootstrap.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Tools
